@@ -1,4 +1,4 @@
-FROM   registry.redhat.io/ubi8/ubi:8.2
+FROM   registry.redhat.io/ubi8/ubi:latest
 
 MAINTAINER   Red Hat Training <training@redhat.com>
 
